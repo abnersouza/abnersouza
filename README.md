@@ -41,6 +41,9 @@
 <br />
 <br />
 
+### Medium Stories:
+<a href="https://medium.com/@abnerssouza/1-clean-code-we-all-can-be-better-coders-19fa4b64999f" target="_blank">Clean Code: We all can be better coders</a>
+
 [twitter]: https://twitter.com/AbnerSanSouza
 [instagram]: https://instagram.com/abnersouza
 [linkedin]: https://linkedin.com/in/abnerssouza

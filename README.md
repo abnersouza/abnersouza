@@ -5,7 +5,7 @@
 <br/> :satellite: &nbsp; I am currently looking for a remote job.
 <br/> :mortar_board: &nbsp;  I’m currently learning everything, but with more focus around MicroServices 🤣
 <br/> :handshake: &nbsp; I’m looking to collaborate with projects that help kids education.
-<br/> :dart: &nbsp; 2020 goals: Start teaching coding to teenagers, specially the ones living in very poor areas.
+<br/> :dart: &nbsp; 2021 goals: Start teaching coding to teenagers, specially the ones living in very poor areas.
 <br/> :zap: &nbsp; Fun fact: I love making sourdough bread and woodworking
 
 ### Connect with me:
